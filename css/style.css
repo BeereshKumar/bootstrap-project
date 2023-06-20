@@ -1,0 +1,40 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.header {
+    height: 90vh;
+    width: 100%;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url(https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&w=600);
+
+    background-size: cover;
+
+}
+
+.heading {
+    color: hsl(165, 14%, 95%);
+  
+     
+}
+
+.para {
+    color: hsl(165, 14%, 95%);
+}
+
+.btn{
+    border-radius: 2rem !important;
+    padding: 0.5rem 1.25rem !important;
+}
+
+.massage{
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+
+.col-md-4{
+     box-sizing: border-box;
+    padding: 0.5em;
+}
+
+ 
+ 
+ 
